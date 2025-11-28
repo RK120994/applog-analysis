@@ -1,0 +1,48 @@
+2022-07-01,info    ,UserApi       ,Ready to serve requests on http://identity:443
+2022-07-01,info    ,UserApi       ,A user's MFA code was reset
+2022-07-02,warning ,UserApi       ,A user was locked out after 5 failed login attempts
+2022-07-05,info    ,BatchService  ,Checking for batches to process...
+2022-07-06,error   ,TransactionApi,Transaction create failed: Transaction type 7 was not found in the database.
+2022-07-09,info    ,BatchService  ,Stopping service...
+2022-07-09,info    ,BatchService  ,Batch Service started
+2022-07-09,info    ,BatchService  ,No incomplete batches found.
+2022-07-10,info    ,BatchService  ,Checking for batches to process...
+2022-07-11,info    ,TransactionApi,New monthly transaction instruction created.
+2022-07-11,info    ,TransactionApi,Transaction instruction stored for later processing.
+2022-07-12,error   ,UserApi       ,Unable to decode user's authentication token
+2022-07-12,warning ,UserApi       ,A user was locked out after 5 failed login attempts
+2022-07-12,info    ,UserApi       ,A user's MFA code was reset
+2022-07-13,info    ,TransactionApi,New monthly transaction instruction created.
+2022-07-14,error   ,TransactionApi,Transaction create failed: Transaction type 7 was not found in the database.
+2022-07-14,error   ,UserApi       ,An error occurred while registering a new user. Error: Object reference not set to an instance of an object.
+2022-07-15,info    ,BatchService  ,Checking for batches to process...
+2022-07-18,info    ,TransactionApi,New monthly transaction instruction created.
+2022-07-19,error   ,TransactionApi,Transaction create failed: Transaction type 7 was not found in the database.
+2022-07-20,info    ,UserApi       ,A new user was registered successfully
+2022-07-21,info    ,UserApi       ,A user's MFA code was reset
+2022-07-24,error   ,TransactionApi,Transaction create failed: Transaction type 7 was not found in the database.
+2022-07-25,info    ,BatchService  ,Checking for batches to process...
+2022-07-25,info    ,BatchService  ,Processing transaction batch of 472 records
+2022-07-25,error   ,BatchService  ,Transaction processing failed. Call to pricing endpoint failed with a timeout. Retrying...
+2022-07-25,info    ,BatchService  ,Processing transaction batch of 472 records
+2022-07-25,warning ,UserApi       ,A user was locked out after 5 failed login attempts
+2022-07-25,warning ,ServiceMonitor,BatchService Memory utilisation is over 90%
+2022-07-25,info    ,BatchService  ,Processing transaction batch of 472 records completed successfully
+2022-07-25,info    ,TransactionApi,New monthly transaction instruction created.
+2022-07-26,info    ,UserApi       ,A user's MFA code was reset
+2022-07-27,warning ,UserApi       ,A user was locked out after 5 failed login attempts
+2022-07-27,error   ,TransactionApi,Transaction create failed: Transaction type 7 was not found in the database.
+2022-07-28,error   ,UserApi       ,An error occurred while registering a new user. Error: Object reference not set to an instance of an object.
+2022-07-28,info    ,UserApi       ,A new user was registered successfully
+2022-07-28,info    ,TransactionApi,New monthly transaction instruction created.
+2022-07-29,warning ,UserApi       ,A user was locked out after 5 failed login attempts
+2022-07-29,error   ,TransactionApi,Transaction create failed: Transaction type 7 was not found in the database.
+2022-07-30,info    ,BatchService  ,Stopping service...
+2022-07-30,info    ,BatchService  ,Batch Service started
+2022-07-30,info    ,BatchService  ,No incomplete batches found.
+2022-07-30,info    ,UserApi       ,Stopping service...
+2022-07-30,info    ,UserApi       ,Ready to serve requests on http://identity:443
+2022-07-30,info    ,TransactionApi,Stopping service...
+2022-07-30,info    ,TransactionApi,Application is ready to serve requests on http://transactions:443
+2022-07-30,info    ,BatchService  ,Checking for batches to process...
+2022-07-30,info    ,TransactionApi,New monthly transaction instruction created.

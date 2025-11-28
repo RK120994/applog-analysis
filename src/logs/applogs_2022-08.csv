@@ -1,0 +1,47 @@
+2022-08-01,info    ,UserApi       ,A new user was registered successfully
+2022-08-03,warning ,UserApi       ,A user was locked out after 5 failed login attempts
+2022-08-03,warning ,UserApi       ,A user was locked out after 5 failed login attempts
+2022-08-04,info    ,TransactionApi,New monthly transaction instruction created.
+2022-08-05,info    ,BatchService  ,Checking for batches to process...
+2022-08-07,error   ,UserApi       ,An error occurred while registering a new user. Error: Object reference not set to an instance of an object.
+2022-08-10,warning ,UserApi       ,A user was locked out after 5 failed login attempts
+2022-08-10,info    ,BatchService  ,Checking for batches to process...
+2022-08-12,info    ,UserApi       ,Stopping service...
+2022-08-12,info    ,UserApi       ,Ready to serve requests on http://identity:443
+2022-08-13,info    ,TransactionApi,New monthly transaction instruction created.
+2022-08-13,info    ,UserApi       ,A user's MFA code was reset
+2022-08-14,warning ,UserApi       ,A user was locked out after 5 failed login attempts
+2022-08-15,info    ,BatchService  ,Checking for batches to process...
+2022-08-16,info    ,TransactionApi,Stopping service...
+2022-08-16,info    ,TransactionApi,Application is ready to serve requests on http://transactions:443
+2022-08-18,info    ,UserApi       ,A new user was registered successfully
+2022-08-17,error   ,UserApi       ,Unable to decode user's authentication token
+2022-08-19,warning ,UserApi       ,A user was locked out after 5 failed login attempts
+2022-08-20,info    ,BatchService  ,Checking for batches to process...
+2022-08-21,info    ,TransactionApi,New monthly transaction instruction created.
+2022-08-22,info    ,UserApi       ,Stopping service...
+2022-08-22,info    ,UserApi       ,Ready to serve requests on http://identity:443
+2022-08-23,info    ,UserApi       ,A user's MFA code was reset
+2022-08-24,error   ,TransactionApi,Fatal error occurred, process exiting
+2022-08-24,warning ,ServiceMonitor,TransactionApi process stopped, and was automatically restarted
+2022-08-24,info    ,TransactionApi,Application is ready to serve requests on http://transactions:443
+2022-08-24,info    ,TransactionApi,New monthly transaction instruction created.
+2022-08-25,info    ,BatchService  ,Checking for batches to process...
+2022-08-25,info    ,BatchService  ,Processing transaction batch of 294 records
+2022-08-25,info    ,BatchService  ,Processing transaction batch of 294 records completed successfully
+2022-08-25,warning ,UserApi       ,A user was locked out after 5 failed login attempts
+2022-08-25,warning ,UserApi       ,A user was locked out after 5 failed login attempts
+2022-08-26,error   ,UserApi       ,Unable to decode user's authentication token
+2022-08-26,info    ,TransactionApi,New monthly transaction instruction created.
+2022-08-27,info    ,UserApi       ,A user's MFA code was reset
+2022-08-28,info    ,UserApi       ,A new user was registered successfully
+2022-08-29,info    ,BatchService  ,Stopping service...
+2022-08-29,info    ,BatchService  ,Batch Service started
+2022-08-29,info    ,BatchService  ,No incomplete batches found.
+2022-08-29,info    ,UserApi       ,Stopping service...
+2022-08-29,info    ,UserApi       ,Ready to serve requests on http://identity:443
+2022-07-29,info    ,TransactionApi,Stopping service...
+2022-07-29,info    ,TransactionApi,Application is ready to serve requests on http://transactions:443
+2022-08-30,info    ,UserApi       ,A new user was registered successfully
+2022-08-30,warning ,UserApi       ,A user was locked out after 5 failed login attempts
+2022-08-30,info    ,UserApi       ,A user's MFA code was reset

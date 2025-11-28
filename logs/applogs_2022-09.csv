@@ -1,0 +1,38 @@
+2022-09-03,info    ,UserApi       ,A new user was registered successfully
+2022-09-03,warning ,UserApi       ,A user was locked out after 5 failed login attempts
+2022-09-04,info    ,TransactionApi,New monthly transaction instruction created.
+2022-09-07,info    ,UserApi       ,A new user was registered successfully
+2022-09-10,info    ,TransactionApi,New monthly transaction instruction created.
+2022-09-11,error   ,TransactionApi,Fatal error occurred, process exiting
+2022-09-11,warning ,ServiceMonitor,TransactionApi process stopped, and was automatically restarted
+2022-09-11,info    ,TransactionApi,Application is ready to serve requests on http://transactions:443
+2022-09-12,info    ,UserApi       ,A user's MFA code was reset
+2022-09-13,info    ,UserApi       ,A new user was registered successfully
+2022-09-14,error   ,UserApi       ,An error occurred while registering a new user. Error: Object reference not set to an instance of an object.
+2022-09-14,warning ,UserApi       ,A user was locked out after 5 failed login attempts
+2022-09-17,error   ,UserApi       ,An error occurred while registering a new user. Error: Object reference not set to an instance of an object.
+2022-09-18,warning ,UserApi       ,A user was locked out after 5 failed login attempts
+2022-09-19,info    ,UserApi       ,A new user was registered successfully
+2022-09-19,info    ,UserApi       ,A user's MFA code was reset
+2022-09-20,info    ,TransactionApi,New monthly transaction instruction created.
+2022-09-25,info    ,BatchService  ,Processing transaction batch of 681 records
+2022-09-25,warning ,ServiceMonitor,BatchService Memory utilisation is over 90%
+2022-09-25,error   ,ServiceMonitor,BatchService Memory utilisation exceeded 100%. Service was restarted.
+2022-09-25,info    ,BatchService  ,Batch Service started
+2022-09-25,warning ,BatchService  ,Incomplete batch detected, 539 records processed. Resuming at last incomplete transaction.
+2022-09-25,info    ,BatchService  ,Processing transaction batch of 142 records
+2022-09-25,info    ,BatchService  ,Processing transaction batch of 142 records completed successfully
+2022-09-26,info    ,UserApi       ,A new user was registered successfully
+2022-09-27,info    ,TransactionApi,New monthly transaction instruction created.
+2022-09-28,warning ,UserApi       ,A user was locked out after 5 failed login attempts
+2022-09-28,warning ,UserApi       ,A user was locked out after 5 failed login attempts
+2022-09-28,error   ,UserApi       ,An error occurred while registering a new user. Error: Object reference not set to an instance of an object.
+2022-09-29,info    ,UserApi       ,A user's MFA code was reset
+2022-09-30,info    ,BatchService  ,Stopping service...
+2022-09-30,info    ,BatchService  ,Batch Service started
+2022-09-30,info    ,BatchService  ,No incomplete batches found.
+2022-09-30,info    ,TransactionApi,Stopping service...
+2022-09-30,info    ,TransactionApi,Application is ready to serve requests on http://transactions:443
+2022-09-30,info    ,UserApi       ,Stopping service...
+2022-09-30,info    ,UserApi       ,Ready to serve requests on http://identity:443
+2022-09-30,info    ,TransactionApi,New monthly transaction instruction created.
